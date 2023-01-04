@@ -1,3 +1,5 @@
 facebook.com
 fbcdn*
 facebook.net
+instagram.com
+cdn-instagram.com
