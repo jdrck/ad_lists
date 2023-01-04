@@ -1,0 +1,7 @@
+google.internal
+google.*
+gstatic.com
+googletagmanager.com
+google-syndication.com
+google-analytics.com
+google-*.*
