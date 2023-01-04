@@ -1,0 +1,5 @@
+apple.*
+apple-*
+cdn-apple.com
+e6978.akamaiedge.net
+icloud.com
