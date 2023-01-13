@@ -1,8 +1,11 @@
 google.internal
-google*
+*google.*
+googleapis.com
 gstatic.com
 googletagmanager.com
-google-syndication.com
+googlesyndication.com
 google-analytics.com
+adgoogle.com
+adwords.google.com
 gmail.com
 withgoogle.com
