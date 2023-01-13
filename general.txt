@@ -1,3 +1,10 @@
+dd.tidal.com
+acsbapp.com
+csp-reporting.cloudflare.com
+fanplayr.com
+riskified.com
+safecharge.com
+evgnet.com
 c783.fastcompany.com
 *clickstream*
 sp-spiegel-de.spiegel.de
@@ -139,7 +146,6 @@ talk-me.ru
 g.ivi.ru
 rocket.ivi.ru
 affiliate.hh.ru
-hhcdn.ru
 webim.ru
 webpushs.com
 datadoghq-browser-agent.com
@@ -149,8 +155,6 @@ mopinion.com
 heapanalytics.com
 airbrake.io
 springernature.io
-code-ya.jivosite.com
-node-ya*.jivosite.com
 effect.habr.com
 cdn4.life
 smartcallback.ru
