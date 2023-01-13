@@ -5,3 +5,4 @@ e6978.akamaiedge.net
 icloud.com
 *.apple
 apple-dns.net
+aaplimg.com
