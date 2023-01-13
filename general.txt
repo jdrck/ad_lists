@@ -708,8 +708,6 @@ deltacdn.net
 commander1.com
 opengraph.githubassets.com
 c*.facebook.com
-sopr-api.cian.ru.cdn.cloudflare.net
-stackpath.bootstrapcdn.com
 sopr-api.cian.ru
 i0.wp.com
 meter-svc.nytimes.com
