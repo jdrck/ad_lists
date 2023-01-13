@@ -9,3 +9,5 @@ adgoogle.com
 adwords.google.com
 gmail.com
 withgoogle.com
+youtube.com
+youtu.be
