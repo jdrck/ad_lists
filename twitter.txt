@@ -1,2 +1,2 @@
-twitter.com
+*twitter.*
 ||t.co^$important
