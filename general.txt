@@ -4,7 +4,6 @@ firstimpressions.io
 s-onetag.com
 outbrain.com
 dianomi.com
-location.bloomberg.com
 coordinator.cm.bloomberg.com
 adsafeprotected.com
 privacymanager.io
@@ -1195,7 +1194,6 @@ mouseflow.com
 ||funnelback.co.uk^$important
 ||contensis.com^$important
 ||contributor.google.com^$important
-||location.bloomberg.com^$important
 ||cmp.bloomberg.com^$important
 ||via.placeholder.com^$important
 ||web.vortex-extended.data.microsoft.com^$important
