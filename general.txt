@@ -560,7 +560,6 @@ mc.yandex.ru
 an.yandex.ru
 mopub.com
 tns-counter.ru
-apple-mapkit.com
 onthe.io
 criteo.com
 criteo.net
@@ -573,7 +572,6 @@ musthird.com
 ampcid.google.com
 scanbot.io
 mytrk.link
-c.apple.news
 test-app.link
 adj.st
 bttn.io
@@ -590,7 +588,6 @@ braze.eu
 s.maps.me
 pushwoosh.com
 localads*.maps.me
-health.apple.com
 tc.mobile.yandex.*
 ofactory.biz
 rcm.rambler.ru
@@ -727,7 +724,6 @@ s-microsoft.com
 tealium*
 basebanner*
 chatra.io
-apple-finance.query.yahoo.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 trustcommander.net
 deltacdn.net
@@ -1090,7 +1086,6 @@ fls-*.amazon.*
 ||global-e.com^$important
 ||gepi.global-e.com.cdn.cloudflare.net^$important
 ||www.bose.deundefined^$important
-||commnat-cohort-gc.ess.apple.com^$important
 ||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 ||mwf-service.akamaized.net^$important
 ||az725175.vo.msecnd.net^$important
@@ -1146,7 +1141,6 @@ fls-*.amazon.*
 ||movingimage.com^$important
 ||vr-bankenportal.de^$important
 ||tech26.de^$important
-||amp-api-edge.apps.apple.com^$important
 ||convertflow.co^$important
 ||analy-analy-10p0rwmoxxcqk-557153750.us-east-1.elb.amazonaws.com^$important
 ||lb-w3d-prod-vip-vortex-static.uio.no^$important
