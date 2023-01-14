@@ -1,2 +1,2 @@
-stripe.network
-stripe.com
+||stripe.network^$important
+||stripe.com^$important
