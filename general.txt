@@ -1,3 +1,10 @@
+scroll.com
+3gl.net
+nile.works
+webcontentassessor.com
+wpdigital.net
+zeustechnology.com
+arcpublishing.com
 ||appsflyer.com^$important  
 ||sinch.com^$important  
 clevertap*  
@@ -207,12 +214,10 @@ chmod777.ltd
 apester.com
 cnevids.com
 flixfacts.ru
-mindbox.ru
 yandex.st
 gosmonitor.ru
 stats.wp.com
 s.wp.com
-static.scroll.com
 imasdk.googleapis.com
 confiant-integrations.global.ssl.fastly.net
 s.yimg.com
@@ -683,7 +688,6 @@ sputnik.ru
 qschina.cn
 snap.licdn.com
 d311j2r2qvjkvi.cloudfront.net
-statics-marketingsites-wcus-ms-com.akamaized.net
 supportmetrics.apple.com  
 time.apple.com
 omeda.com
@@ -1089,7 +1093,6 @@ fls-*.amazon.*
 ||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 ||mwf-service.akamaized.net^$important
 ||az725175.vo.msecnd.net^$important
-||statics-marketingsites-eus-ms-com.akamaized.net^$important
 ||gfx.ms^$important
 ||cdn.ampproject.org^$important
 ||urania.journal.tinkoff.ru^$important
@@ -1109,10 +1112,9 @@ fls-*.amazon.*
 ||fresnel.vimeocdn.com^$important
 ||me-talk.ru^$important
 ||simpalsmedia.com^$important
-||statics-marketingsites-neu-ms-com.akamaized.net^$important
+||statics-marketingsites*.akamaized.net^$important
 ||liveperson.net^$important
 ||greenid-prod-pme.eastus2.cloudapp.azure.com^$important
-||t-0009.t-msedge.net^$important
 ||awsglobalaccelerator.com^$important
 ||docebopaas.com^$important
 ||c12-use-2.algolia.net^$important
@@ -1123,10 +1125,6 @@ fls-*.amazon.*
 ||2mdn.net^$important
 ||img.connatix.com^$important
 ||capi-tier-1-us-east-2.connatix.com^$important
-||pl.connatix.com^$important
-||cd.connatix.com^$important
-||cds.connatix.com^$important
-||capi.connatix.com^$important
 ||infocreate.co.jp^$important
 ||stg.swatch.com^$important
 ||stg-bdnv-swatch-com.cc-ecdn.net.cdn.cloudflare.net^$important
@@ -1273,7 +1271,6 @@ radar.cedexis.net
 ||cdn.ravenjs.com^$important
 ||verticals.dc11.wix.com^$important
 ||erp.timeless.am^$important
-||cosmic-westeurope-ns-266f7d37834c.trafficmanager.net^$important
 ||go.microsoft.com^$important
 ||clients.config.office.net^$important
 ||eudb.clients.config.office.akadns.net^$important
